@@ -1,0 +1,17 @@
+package com.habittracker;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HabitTrackerApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(HabitTrackerApplication.class, args);
+
+        System.out.println("====================================");
+        System.out.println("Habit Tracker Backend Started!");
+        System.out.println("http://localhost:8081");
+        System.out.println("====================================");
+    }
+}
