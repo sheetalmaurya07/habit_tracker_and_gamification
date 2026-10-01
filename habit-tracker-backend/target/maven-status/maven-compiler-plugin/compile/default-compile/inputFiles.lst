@@ -1,0 +1,14 @@
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\config\JwtAuthenticationFilter.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\config\JwtService.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\config\SecurityConfig.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\controller\AchievementController.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\controller\AuthController.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\controller\HabitController.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\controller\HomeController.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\controller\ProgressController.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\controller\UserController.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\entity\Habit.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\entity\User.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\HabitTrackerApplication.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\repository\HabitRepository.java
+C:\Users\maury\Downloads\HabitTrackerAndGamification\habit-tracker-backend\src\main\java\com\habittracker\repository\UserRepository.java
