@@ -1,0 +1,14 @@
+com\habittracker\repository\HabitRepository.class
+com\habittracker\controller\HomeController.class
+com\habittracker\controller\AuthController.class
+com\habittracker\HabitTrackerApplication.class
+com\habittracker\controller\UserController.class
+com\habittracker\entity\User.class
+com\habittracker\controller\AchievementController.class
+com\habittracker\config\SecurityConfig.class
+com\habittracker\config\JwtService.class
+com\habittracker\entity\Habit.class
+com\habittracker\controller\ProgressController.class
+com\habittracker\repository\UserRepository.class
+com\habittracker\config\JwtAuthenticationFilter.class
+com\habittracker\controller\HabitController.class
